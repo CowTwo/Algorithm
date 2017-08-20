@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_MODE_FLAG">SelectedMethodsMode</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedClassesMode_SELECTION_FLAG">bst.BST,*, bst.Node,*, </entry>
+<entry key="ACTIVATED_FEATURES">#org.netbeans.modules.profiler.v2.features.MethodsFeature@</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedMethodsMode_SELECTION_FLAG">bst.BST,insert,(I)V bst.BST,find,(I)Z </entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SETTINGS_FLAG">true</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedClassesMode_OUTGOING_CALLS_FLAG">10</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedMethodsMode_FILTER_CALLS_FLAG">NO_FILTER</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedClassesMode_FILTER_CALLS_FLAG">NO_FILTER</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedMethodsMode_OUTGOING_CALLS_FLAG">10</entry>
+</properties>
